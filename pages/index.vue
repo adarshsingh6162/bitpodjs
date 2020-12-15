@@ -25,7 +25,7 @@
             class="mt-3 grey--text text-darken-3"
             tile
             outlined
-            large
+            large 
             color="grey"
             @click="loginGoogle"
           >
